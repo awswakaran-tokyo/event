@@ -10,6 +10,9 @@
 
 ## awswakaran.tokyo #1
 
+- 7/22
+- AWS Loft
+
 Tasks managed by following page.
 
 https://github.com/awswakaran-tokyo/event/projects/1
